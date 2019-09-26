@@ -3,8 +3,8 @@ import java.util.concurrent.Semaphore;
 
 public class Main {
 
-    public static long startTime;
-    public static DecimalFormat df = new DecimalFormat("#.###");
+        public static long startTime;
+        public static DecimalFormat df = new DecimalFormat("#.###");
 
     public static void main (String args[]) {
         System.out.println("Starting...");
